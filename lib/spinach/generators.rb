@@ -23,4 +23,5 @@ end
 require_relative 'generators/feature_generator'
 require_relative 'generators/step_generator'
 require_relative 'generators/page_generator'
+require_relative 'generators/page_base_generator'
 require_relative 'generators/page_helpers_generator'
